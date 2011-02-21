@@ -37,3 +37,11 @@ Artifacts in this repository
 		<groupId>com.postmark</groupId>
 		<artifactId>postmark-client</artifactId>
 		<version>0.3.0</version>
+
+*	**language-detect**   
+	Maven-ifed packaging (& rough cleaning) of http://code.google.com/p/language-detection/
+	[Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)
+
+		<groupId>com.cybozu.labs</groupId>
+		<artifactId>langdetect</artifactId>
+		<version>1.2.2</version>
