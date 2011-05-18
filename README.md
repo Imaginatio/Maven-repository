@@ -26,17 +26,17 @@ Artifacts in this repository
 	Packaging of our https://github.com/Imaginatio/postmark-java   
 	[MIT License](http://www.opensource.org/licenses/mit-license.php)
 
-		<groupId>com.watchilater</groupId>
-		<artifactId>spring-stringtemplate</artifactId>
-		<version>1.4</version>
+		<groupId>com.postmark</groupId>
+		<artifactId>postmark-client</artifactId>
+		<version>0.3.1</version>
 
 *	**spring-stringtemplate**   
 	Maven-ifed packaging of https://github.com/tomcz/spring-stringtemplate   
 	[BSD License](http://www.opensource.org/licenses/bsd-license.php)
 
-		<groupId>com.postmark</groupId>
-		<artifactId>postmark-client</artifactId>
-		<version>0.3.0</version>
+		<groupId>com.watchilater</groupId>
+		<artifactId>spring-stringtemplate</artifactId>
+		<version>1.4</version>
 
 *	**language-detect**   
 	Maven-ifed packaging (& rough cleaning) of http://code.google.com/p/language-detection/
