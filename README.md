@@ -30,6 +30,14 @@ Artifacts in this repository
 		<artifactId>postmark-client</artifactId>
 		<version>0.3.1</version>
 
+*	**REL**   
+	Packaging of our https://github.com/Imaginatio/REL for Scala 2.9.1   
+	[MIT License](http://www.opensource.org/licenses/mit-license.php)
+
+		<groupId>fr.splayce</groupId>
+		<artifactId>rel_2.9.1</artifactId>
+		<version>0.0.3</version>
+
 *	**spring-stringtemplate**   
 	Maven-ifed packaging of https://github.com/tomcz/spring-stringtemplate   
 	[BSD License](http://www.opensource.org/licenses/bsd-license.php)
