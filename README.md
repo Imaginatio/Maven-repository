@@ -28,7 +28,7 @@ Artifacts in this repository
 
 		<groupId>com.postmark</groupId>
 		<artifactId>postmark-client</artifactId>
-		<version>0.3.1</version>
+		<version>0.3.2</version>
 
 *	**REL**   
 	Packaging of our https://github.com/Imaginatio/REL for Scala 2.9.1   
