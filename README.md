@@ -36,7 +36,7 @@ Artifacts in this repository
 
 		<groupId>fr.splayce</groupId>
 		<artifactId>rel_2.9.1</artifactId>
-		<version>0.1.2</version>
+		<version>0.1.3</version>
 
 *	**spring-stringtemplate**   
 	Maven-ifed packaging of https://github.com/tomcz/spring-stringtemplate   
