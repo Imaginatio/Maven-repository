@@ -31,7 +31,7 @@ Artifacts in this repository
 		<version>0.3.2</version>
 
 *	**REL**   
-	Packaging of our https://github.com/Imaginatio/REL for Scala 2.9.1   
+	Packaging of our https://github.com/Imaginatio/REL for Scala 2.9.1, 2.9.2 and 2.10.
 	[MIT License](http://www.opensource.org/licenses/mit-license.php)
 
 		<groupId>fr.splayce</groupId>
